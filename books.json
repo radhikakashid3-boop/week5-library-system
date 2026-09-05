@@ -1,0 +1,32 @@
+{
+    "9780135166307": {
+        "title": "Effective Python",
+        "author": "Brett Slatkin",
+        "isbn": "9780135166307",
+        "year": 2019,
+        "available": true,
+        "borrowed_by": null,
+        "due_date": null,
+        "date_added": "2026-09-05"
+    },
+    "9781492051367": {
+        "title": "Fluent Python",
+        "author": "Luciano Ramalho",
+        "isbn": "9781492051367",
+        "year": 2022,
+        "available": true,
+        "borrowed_by": null,
+        "due_date": null,
+        "date_added": "2026-09-05"
+    },
+    "9780135957059": {
+        "title": "Clean Code",
+        "author": "Robert C. Martin",
+        "isbn": "9780135957059",
+        "year": 2008,
+        "available": true,
+        "borrowed_by": null,
+        "due_date": null,
+        "date_added": "2026-09-05"
+    }
+}
